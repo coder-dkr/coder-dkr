@@ -1,6 +1,6 @@
 # Hi there, I'm Dhruv Kumar Roy 👋
 
-## 🚀 About Me
+## 🦁 About Me
 I'm a passionate **Web Developer** with experience in **React**, **Tailwind CSS**, **Node.js**, and **Express**. I love building responsive and interactive web applications, with a focus on user experience and performance. I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving tech world.
 
 ## 🛠️ My Skills
