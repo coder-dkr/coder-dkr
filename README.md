@@ -42,8 +42,8 @@
 ---
 
 ### 🛠️ **Current Projects**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coder-dkr&repo=moviereviewpedia&theme=dark&bg_color=0d1117&title_color=00FF00)](https://github.com/coder-dkr/moviereviewpedia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coder-dkr&repo=ribbit.app)&theme=dark&bg_color=0d1117&title_color=00FF00)](https://github.com/coder-dkr/ribbit.app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coder-dkr&repo=dashboard-foodx&theme=dark&bg_color=0d1117&title_color=00FF00)](https://github.com/coder-dkr/dashboard-foodx)
 
 ---
 
