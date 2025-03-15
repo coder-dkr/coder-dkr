@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvroy-debugging&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=coder-dkr&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <h1 align="center">
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://dhruvroy.in"><img src="https://img.shields.io/badge/🌐-PORTFOLIO-00FF00?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="mailto:dhruvakr9001@gmail.com"><img src="https://img.shields.io/badge/📧-EMAIL-00FF00?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/dhruvroy-debugging"><img src="https://img.shields.io/badge/💼-LINKEDIN-00FF00?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/coder-dkr"><img src="https://img.shields.io/badge/💼-LINKEDIN-00FF00?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -31,19 +31,19 @@
 ### 📊 **GitHub Analytics**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvroy-debugging&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvroy-debugging&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coder-dkr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-dkr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvroy-debugging&theme=dark&hide_border=true&background=0d1117&stroke=00FF00&fire=00FF00&ring=00FF00">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-dkr&theme=dark&hide_border=true&background=0d1117&stroke=00FF00&fire=00FF00&ring=00FF00">
 </p>
 
 ---
 
 ### 🛠️ **Current Projects**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvroy-debugging&repo=your-repo-name&theme=dark&bg_color=0d1117&title_color=00FF00)](https://github.com/dhruvroy-debugging/your-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coder-dkr&repo=moviereviewpedia&theme=dark&bg_color=0d1117&title_color=00FF00)](https://github.com/coder-dkr/moviereviewpedia)
 
 ---
 
