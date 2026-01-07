@@ -66,18 +66,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-dkr&theme=tokyonight" width="100%" alt="profile details" />
-</div>
-
----
-
-<h3 align="center" style="color:#d8b4fe">/// EXECUTE: ACTIVITY_LOG</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-dkr&bg_color=0a0a0a&color=d8b4fe&line=a855f7&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
 ---
 
 <div align="center">
