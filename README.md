@@ -29,11 +29,39 @@
 <h3 align="center" style="color:#d8b4fe">/// EXECUTE: DATA_ANALYSIS</h3>
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=USER:+CODER-DKR;STATUS:+OPERATIONAL;THEME:+DARK_VOID;ACCESS_LEVEL:+ROOT&font=Fira+Code&center=true&size=30&color=d8b4fe&background=0a0a0a&vCenter=true&width=700&height=100&duration=4000&pause=1000" />
+  </a>
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=coder-dkr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-dkr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a" height="180" alt="languages graph" />
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=2e1065" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2e1065" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=2e1065" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=2e1065" />
+</div>
 
+<br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-dkr&theme=tokyonight" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-dkr&bg_color=0a0a0a&color=d8b4fe&line=a855f7&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://linkedin.com/in/coder-dkr">
+    <img src="https://img.shields.io/badge/ENCRYPTED_CHANNEL-LINKEDIN-2e1065?style=for-the-badge&logo=linkedin&logoColor=d8b4fe" />
+  </a>
+  <a href="mailto:dhruvakr9001@gmail.com">
+    <img src="https://img.shields.io/badge/SECURE_MAIL-GMAIL-2e1065?style=for-the-badge&logo=gmail&logoColor=d8b4fe" />
+  </a>
 </div>
 
 <br />
