@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=echo+%22INITIALIZING+PROTOCOL...%22;echo+%22SUBJECT:+DHRUV+ROY%22;echo+%22ROLE:+FULL+STACK+ARCHITECT%22;echo+%22SYSTEM+STATUS:+ONLINE%22&font=Fira+Code&center=true&size=35&color=d8b4fe&background=0a0a0a&vCenter=true&width=800&height=120&duration=4000&pause=1000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=echo+%22INITIALIZING+PROTOCOL...%22;echo+%22ADMIN:+DHRUV+ROY%22;echo+%22ROLE:+FULL+STACK+ARCHITECT%22;echo+%22SYSTEM+STATUS:+ONLINE%22&font=Fira+Code&center=true&size=35&color=d8b4fe&background=0a0a0a&vCenter=true&width=800&height=120&duration=4000&pause=1000" />
   </a>
 </div>
 
