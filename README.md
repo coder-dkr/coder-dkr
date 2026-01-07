@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coder-dkr&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=coder-dkr&label=PROFILE+VIEWS&color=A371F7&style=flat" alt="profile views" />
 </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Dhruv+Kumar+Roy;Web+Developer;Tech+Enthusiast;Problem+Solver&center=true&size=25&color=00FF00&width=500">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Dhruv+Kumar+Roy;Web+Developer;Tech+Enthusiast;Problem+Solver&center=true&size=25&color=BB86FC&width=500">
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://dhruvroy.in"><img src="https://img.shields.io/badge/🌐-PORTFOLIO-00FF00?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="mailto:dhruvakr9001@gmail.com"><img src="https://img.shields.io/badge/📧-EMAIL-00FF00?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/coder-dkr"><img src="https://img.shields.io/badge/💼-LINKEDIN-00FF00?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://dhruvroy.in"><img src="https://img.shields.io/badge/🌐-PORTFOLIO-BB86FC?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:dhruvakr9001@gmail.com"><img src="https://img.shields.io/badge/📧-EMAIL-A371F7?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/coder-dkr"><img src="https://img.shields.io/badge/💼-LINKEDIN-BB86FC?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -31,35 +31,25 @@
 ### 📊 **GitHub Analytics**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coder-dkr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-dkr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coder-dkr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&icon_color=A371F7&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-dkr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-dkr&theme=dark&hide_border=true&background=0d1117&stroke=00FF00&fire=00FF00&ring=00FF00">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-dkr&theme=tokyonight&hide_border=true&background=0d1117&stroke=BB86FC&fire=A371F7&ring=BB86FC">
 </p>
 
 ---
 
 ### 🛠️ **Current Projects**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coder-dkr&repo=ribbit.app)&theme=dark&bg_color=0d1117&title_color=00FF00)](https://github.com/coder-dkr/ribbit.app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coder-dkr&repo=dashboard-foodx&theme=dark&bg_color=0d1117&title_color=00FF00)](https://github.com/coder-dkr/dashboard-foodx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coder-dkr&repo=ribbit.app&theme=tokyonight&bg_color=0d1117&title_color=BB86FC)](https://github.com/coder-dkr/ribbit.app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coder-dkr&repo=dashboard-foodx&theme=tokyonight&bg_color=0d1117&title_color=BB86FC)](https://github.com/coder-dkr/dashboard-foodx)
 
 ---
 
 ### 📚 **Learning Trail**
 
-- 🌀 Advanced React Patterns
-- ⚡ Next.js
-- 🔷 TypeScript
-- 🧠 DSA
-
----
-
-### 💻 **Coding Activity**
-
-<!--START_SECTION:waka-->
-```text
-🌙 Night Owl Coding   ███████████████████░░░░░░   75.0% 
-☀️ Early Bird         ████░░░░░░░░░░░░░░░░░░░░░   15.0%
-🌆 Evening            █████░░░░░░░░░░░░░░░░░░░░   10.0%
+- 🌀 **Advanced React Patterns**
+- ⚡ **Next.js**
+- 🔷 **TypeScript**
+- 🧠 **DSA**
