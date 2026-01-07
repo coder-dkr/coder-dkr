@@ -29,12 +29,17 @@
 <h3 align="center" style="color:#d8b4fe">/// EXECUTE: DATA_ANALYSIS</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coder-dkr&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=d8b4fe&icon_color=a855f7&text_color=ffffff&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-dkr&layout=compact&theme=dark&bg_color=0a0a0a&title_color=d8b4fe&icon_color=a855f7&text_color=ffffff&hide_border=true" height="180" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=coder-dkr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-dkr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a" height="180" alt="languages graph" />
+
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-dkr&theme=dark&background=0a0a0a&stroke=d8b4fe&ring=a855f7&fire=d8b4fe&currStreakLabel=d8b4fe&currStreakNum=ffffff&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-dkr&theme=tokyonight" width="100%" alt="profile details" />
 </div>
 
 ---
